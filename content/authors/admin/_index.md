@@ -15,7 +15,7 @@ social:
     icon_pack: fas
     link: denghuixin_stephy@outlook.com
     display:
-      header: true
+      header: false
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/HuixinDeng
