@@ -1,11 +1,11 @@
 ---
 widget: pages
-widget_id: blank
+widget_id: RECENT-POSTS
 headless: true
 weight: 90
 title: Recent Publications
 subtitle: ""
-active: false
+active: true
 content:
   page_type: publication
   count: 5
