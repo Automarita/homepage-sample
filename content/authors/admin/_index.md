@@ -38,4 +38,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "HuixinDeng_CV_EN_Sep2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/huixindeng_cv_en_sep2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
