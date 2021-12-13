@@ -9,6 +9,7 @@ authors:
   - Liyin Jin
   - Qian Xu
 doi: https://doi.org/10.1002/mar.21607
+publication: ""
 abstract: While it is common for companies to send greetings that include
   special promotions to their customers on special days (e.g., birthdays,
   holidays, etc.), consumers express mixed responses to such date-specific
@@ -27,7 +28,7 @@ abstract: While it is common for companies to send greetings that include
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: null
   focal_point: Smart
   preview_only: false
 date: 2021-12-13T04:17:05.197Z
