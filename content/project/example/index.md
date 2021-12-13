@@ -2,14 +2,15 @@
 draft: true
 slides: example
 url_pdf: ""
+title: Example Project
+date: 2016-04-27T00:00:00.000Z
 summary: An example of using the in-built project page.
 url_video: ""
-date: 2016-04-27T00:00:00Z
-external_link: ""
-url_slides: ""
-title: Example Project
+featured: true
 tags:
   - Deep Learning
+external_link: ""
+url_slides: ""
 links:
   - icon: twitter
     icon_pack: fab
@@ -18,6 +19,7 @@ links:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  preview_only: true
 url_code: ""
 ---
 
