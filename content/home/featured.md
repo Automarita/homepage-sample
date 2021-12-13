@@ -1,9 +1,9 @@
 ---
-widget: featured
+widget: Publications
 widget_id: RECENT-POSTS
 headless: true
-weight: 50
-title: Publications
+weight: 20
+title: ""
 subtitle: ""
 active: true
 content:
