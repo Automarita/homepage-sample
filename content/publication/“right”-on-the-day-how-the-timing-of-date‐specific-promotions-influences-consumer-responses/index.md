@@ -3,7 +3,7 @@ title: "“Right” on the day: How the timing of date‐specific promotions
   influences consumer responses"
 subtitle: ""
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Huixin Deng
   - Liyin Jin
@@ -26,7 +26,7 @@ abstract: While it is common for companies to send greetings that include
   implications for marketers regarding how firms should design date-specific
   promotions and communicate with their customers.
 draft: false
-featured: false
+featured: true
 image:
   filename: null
   focal_point: Smart
