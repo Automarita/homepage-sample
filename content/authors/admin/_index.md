@@ -1,6 +1,7 @@
 ---
 title: Huixin Deng (邓慧欣)
 role: ""
+avatar_filename: avatar.jpg
 bio: I am a Ph.D. student in Marketing at the School of Management, Fudan
   University. My research topics cover consumer motive inference, incentive
   design in referral programs, and price promotion. I am also a podcast producer
